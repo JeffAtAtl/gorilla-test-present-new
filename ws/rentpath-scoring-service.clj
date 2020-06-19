@@ -1,7 +1,7 @@
 ;; gorilla-repl.fileformat = 1
 
 ;; **
-;;; # Gorilla REPL
+;;; # Rentpath Scoring Service
 ;;; 
 ;;; Welcome to gorilla :-)
 ;;; 
